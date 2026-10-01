@@ -33,25 +33,25 @@
 }
 .photo{
     display: inline-block;
-    padding: 20px;
-    padding-bottom: 40px;
-    border-radius: 30px;
+    padding: 10px;
+    padding-bottom: 20px;
+    border-radius: 15px;
     border: 1px solid black;
-    margin: 15px;
+    margin: 7px;
     transition:  0.5s ;
 
 }
 .photo img{
-    height: 180px;;
-    border-radius: 20px;
+    height: 90px;;
+    border-radius: 10px;
     transition:  0.5s;
 }
 .photo:hover{
-    padding-bottom: 80px;
+    padding-bottom: 40px;
 }
 .photo img:hover{
     width: auto;
-    height: 250px;
+    height: 125px;
     
 }
 
